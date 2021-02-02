@@ -1,1 +1,1 @@
-`project to write the command to open a file from witin the emacs`
+`project to write the comman witin the emacs`
